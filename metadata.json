@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra - Reflexive Verbs Spanish Practice",
+  "description": "An interactive Pasapalabra wheel game with 27 Spanish reflexive verb exercises to practice conjugations, word ordering, pronouns, and error corrections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
